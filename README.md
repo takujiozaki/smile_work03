@@ -5,8 +5,8 @@
 ### MySQLの準備
 MySQLにWordPress専用のDBを作成する。
 - phpMyAdminを使用する方法
-
 - MySQLモニタを使用する方法
+- MySQL Userの設定
 
 ### WordPressをダウンロード
 https://ja.wordpress.org/download/
